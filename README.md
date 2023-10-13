@@ -1,10 +1,10 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hello, i'm Pedro. <br><br> From front-end development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end junior developer</strong> focused on web development.</p>&nbsp;
+<p align="center" font-size="20px">Hello, i'm Pedro. <br><br> From front-end development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end junior developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=65% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroOfelicio&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroOfelicio&theme=radical&mode=weekly" />
 
  </div>
  
